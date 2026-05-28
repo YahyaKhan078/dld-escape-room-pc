@@ -36,15 +36,15 @@ What makes it different from typical puzzle games: the circuit engine is **real*
 
 | Main Menu | Puzzle Workspace |
 |-----------|-----------------|
-| ![Main Menu](screenshots/main-menu.png) | ![Puzzle](screenshots/level1-puzzle.png) |
+| ![Main Menu](screenshots/main-menu.jpeg) | ![Puzzle](screenshots/level1-puzzle.jpeg) |
 
 | Hint System | Access Granted |
 |-------------|----------------|
-| ![Hints](screenshots/hint-system.png) | ![Win](screenshots/access-granted.png) |
+| ![Hints](screenshots/hint-system.jpeg) | ![Win](screenshots/access-granted.jpeg) |
 
 | Exploration Map | Terminal Interaction |
 |-----------------|---------------------|
-| ![Map](screenshots/exploration-map.png) | ![NPC](screenshots/npc-dialogue.png) |
+| ![Map](screenshots/exploration-map.jpeg) | ![NPC](screenshots/npc-dialogue.jpeg) |
 
 ---
 
